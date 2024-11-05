@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace TjuvOPolis
+namespace TjuvOchPolis
 {
     internal class Program
     {
