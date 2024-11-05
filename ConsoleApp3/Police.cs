@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TjuvOPolis;
 
-namespace TjuvOPolis
+namespace TjuvOchPolis
 {
     internal class Police : Person
     {
