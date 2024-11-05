@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TjuvOPolis
+namespace TjuvOchPolis
 {
     internal abstract class Person
     {
