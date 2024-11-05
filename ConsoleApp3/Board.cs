@@ -7,7 +7,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TjuvOPolis
+namespace TjuvOchPolis // Ändrade från TjuvOPolis till TjuvOchPolis
 {
     internal class Board
     {
